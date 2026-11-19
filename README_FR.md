@@ -1,3 +1,5 @@
+🌐 **[English](README.md)** | **Français**
+
 # <img src="assets/icon.png" width="32" align="absmiddle" alt="Logo"> Universal Mass Converter v1.0.0
 
 <p>
