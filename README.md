@@ -181,5 +181,10 @@ Universal-Mass-Converter/
 
 ---
 
+## 🗺️ Évolutions prévues
+Consultez le fichier [modification_futur.md](modification_futur.md) pour découvrir les fonctionnalités prévues dans les prochaines versions.
+
+---
+
 ## 🗒️ Licence
 Ce projet est distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
