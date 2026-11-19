@@ -9,7 +9,18 @@
 
 Convertisseur de fichiers en masse **100 % hors-ligne, gratuit et illimité**. Glissez un dossier pour détecter et convertir automatiquement les formats compatibles.
 
-![Démonstration de l'application](assets/screenshot_video.gif)
+<p align="center">
+  <img src="assets/screenshot_video.gif" alt="Démonstration de l'application">
+</p>
+
+<p align="center">
+  <a href="../../releases/latest">
+    <img src="assets/btn-download.svg" alt="Télécharger pour Windows (.exe)">
+  </a>
+  <br>
+  <sub><i>Gratuit • Sans installation • Compatible Windows 10 et 11</i></sub>
+</p>
+
 
 
 ---
