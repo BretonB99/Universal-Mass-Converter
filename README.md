@@ -9,7 +9,7 @@
 
 Convertisseur de fichiers en masse **100 % hors-ligne, gratuit et illimité**. Glissez un dossier pour détecter et convertir automatiquement les formats compatibles.
 
-![Aperçu de l'application](assets/screenshot.png)
+![Démonstration de l'application](assets/screenshot_video.gif)
 
 
 ---
