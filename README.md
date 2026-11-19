@@ -15,13 +15,11 @@ Convertisseur de fichiers en masse **100 % hors-ligne, gratuit et illimité**. G
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="assets/btn-download.svg" alt="Télécharger pour Windows (.exe)">
+    <img src="assets/btn-download.png" alt="Télécharger pour Windows (.exe)">
   </a>
   <br>
   <sub><i>Gratuit • Sans installation • Compatible Windows 10 et 11</i></sub>
 </p>
-
-
 
 ---
 
