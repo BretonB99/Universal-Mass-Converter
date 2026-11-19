@@ -1,0 +1,23 @@
+# Environnements virtuels et caches Python
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de compilation PyInstaller (.exe)
+build/
+dist/
+*.spec
+
+# Dossiers de test et journaux locaux
+convertis_*/
+rapport_conversion.txt
+ARCHITECTURE_ET_EXTENSIONS.txt
+test/
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
