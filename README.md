@@ -1,9 +1,13 @@
-# <img src="assets/logo.png" width="32" align="absmiddle" alt="Logo"> Universal Mass Converter v1.0.0
+<p align="center">
+  <img src="assets/icon.png" width="90" alt="Logo Universal Mass Converter">
+</p>
 
-![Licence MIT](https://shields.io)
-![Python 3.10+](https://shields.io)
-![100% Hors-Ligne](https://shields.io)
-![Interface PySide6](https://shields.io)
+# Universal Mass Converter v1.0.0
+
+![Licence MIT](//img.shields.io/badge/Licence-MIT-green.svg)
+![Python 3.10+](//img.shields.io/badge/Python-3.10%2B-blue.svg)
+![100% Hors-Ligne](//img.shields.io/badge/Mode-100%25%20Hors--Ligne-orange.svg)
+![Interface PySide6](//img.shields.io/badge/UI-PySide6-41cd52.svg)
 
 Un convertisseur de fichiers par lots (en masse) **100 % hors-ligne, gratuit et sans aucune limite de taille ou de nombre de fichiers**. Glissez-déposez simplement un dossier : l'interface détecte automatiquement les extensions présentes et ne propose que les formats de sortie compatibles.
 
