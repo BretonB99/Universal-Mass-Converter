@@ -1,7 +1,4 @@
-<h1>
-  <img src="assets/logo.png" width="38" align="absmiddle" alt="Logo Universal Mass Converter">
-  Universal Mass Converter v1.0.0
-</h1>
+# <img src="assets/logo.png" width="28" height="28" alt="Logo"> Universal Mass Converter v1.0.0
 
 ![Licence MIT](https://shields.io)
 ![Python 3.10+](https://shields.io)
