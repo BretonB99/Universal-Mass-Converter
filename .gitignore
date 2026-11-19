@@ -1,0 +1,12 @@
+﻿venv/
+env/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+convertis_*/
+rapport_conversion.txt
+ARCHITECTURE_ET_EXTENSIONS.txt
+.vscode/
+.idea/
