@@ -48,7 +48,7 @@
     </div>
     <div class="nav-actions">
       <button class="btn-outline" id="lang-btn" onclick="toggleLang()">🇫🇷 Français</button>
-      <a class="btn-outline" id="repo-link" href="#" target="_blank">GitHub</a>
+      <a class="btn-outline" href="https://github.com" target="_blank">GitHub</a>
     </div>
   </header>
 
@@ -60,7 +60,7 @@
         Drag and drop any folder. Universal Mass Converter automatically detects file extensions and converts 50+ formats with zero file size limits.
       </p>
 
-      <a class="btn-download" id="dl-btn" href="#" data-en="⬇ Download for Windows (.exe)" data-fr="⬇ Télécharger pour Windows (.exe)">⬇ Download for Windows (.exe)</a>
+      <a class="btn-download" href="https://github.com/releases/download/v1.0.0/UniversalMassConverter.exe" data-en="⬇ Download for Windows (.exe)" data-fr="⬇ Télécharger pour Windows (.exe)">⬇ Download for Windows (.exe)</a>
       <span class="sub-info" data-en="Free • No Installation Required • Windows 10 & 11" data-fr="Gratuit • Sans installation • Compatible Windows 10 & 11">Free • No Installation Required • Windows 10 & 11</span>
 
       <div class="demo-box">
@@ -117,15 +117,10 @@
   </main>
 
   <footer>
-    <p>Universal Mass Converter • Licensed under MIT • <a id="footer-link" href="#">Source Code on GitHub</a></p>
+    <p>Universal Mass Converter • Licensed under MIT • <a href="https://github.com">Source Code on GitHub</a></p>
   </footer>
 
   <script>
-    const baseRepo = ['https:', '//://github.com'].join('');
-    document.getElementById('repo-link').href = baseRepo;
-    document.getElementById('footer-link').href = baseRepo;
-    document.getElementById('dl-btn').href = baseRepo + '/releases/download/v1.0.0/UniversalMassConverter.exe';
-
     let currentLang = 'en';
     function toggleLang() {
       currentLang = currentLang === 'en' ? 'fr' : 'en';
