@@ -16,7 +16,7 @@ Convertisseur de fichiers en masse **100 % hors-ligne, gratuit et illimité**. G
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">
+  <a href="https://github.com/BretonB99/Universal-Mass-Converter/releases/download/v1.0.0/UniversalMassConverter.exe">
     <img src="assets/btn-download.png" alt="Télécharger pour Windows (.exe)">
   </a>
   <br>
