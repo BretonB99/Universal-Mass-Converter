@@ -16,7 +16,7 @@ Batch file converter **100% offline, free, and unlimited**. Drag and drop a fold
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">
+  <a href="https://github.com/BretonB99/Universal-Mass-Converter/releases/download/v1.0.0/UniversalMassConverter.exe">
     <img src="assets/btn-download-en.png" alt="Download for Windows (.exe)">
   </a>
   <br>
